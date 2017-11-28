@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----------------------RESET--------------------*/
+h1{font:bold 5em Arial, Helvetica, sans-serif; text-align:center; margin:30px 0 0 0; background:#333; color:#fff; padding:10px; letter-spacing:-0.07em; text-shadow:0px 0px 5px #eaeaea; }
+
+.menu li a{color:#c8edef; position:relative; text-decoration:none;}
+
+.menu li a div{position:absolute; top:-40px; left:0px; width:100%; height:150px; background:url(../img/light.png) no-repeat top; display:none;}
